@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Spotify Playing 🎧
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?MD-Khalid-Hosain/MD-Khalid-Hosain=anuraghazra&theme=dark&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MD-Khalid-Hosain&show_icons=true&theme=dark)
 
 ### Connect with me:
 
@@ -89,12 +89,6 @@
 
 </details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MD-Khalid-Hosain&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: 
 [course]: 
