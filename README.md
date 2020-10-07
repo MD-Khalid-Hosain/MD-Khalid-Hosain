@@ -1,7 +1,7 @@
 ### Hi there, I'm MD Khalid Hosain  👋
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://twitter.com/MD_Khalid_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/MD_Khalid_)
+![Twitter Follow](https://img.shields.io/twitter/follow/MD_Khalid_?color=%231DA1F2&logo=twitter&style=for-the-badge)
 
 ## I'm a Student and Developer, !!
 
