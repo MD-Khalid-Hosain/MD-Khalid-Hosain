@@ -8,9 +8,6 @@
 
 
 
-
-
-
 ## I'm a Student and Developer, !!
 
 - 🌱 I’m currently learning everything 🤣
@@ -21,8 +18,9 @@
 ### Github Stats 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MD-Khalid-Hosain&show_icons=true&theme=dark)
 
-<br />
 ---
+<br />
+
 
 ### Languages and Tools:
 
