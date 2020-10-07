@@ -88,10 +88,7 @@
 </details>
 
 
-[website]: 
-[course]: 
 [twitter]: https://twitter.com/MD_Khalid_
 [youtube]: https://www.youtube.com/channel/UCv6U4ZX-LF6hxCjpCeJCGTA/videos?view_as=subscriber
-[instagram]:
-[linkedin]: 
+[linkedin]: linkedin.com/in/md-khalid-hosain-150a75168
 [webdevplaylist]: https://www.youtube.com/channel/UCv6U4ZX-LF6hxCjpCeJCGTA/videos?view_as=subscriber
