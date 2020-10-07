@@ -4,6 +4,9 @@
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MD_Khalid_)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-khalid-hosain-150a75168/)
 [![Stackoverflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/11679941/md-khalid-hosain?tab=profile)
+[![Yotube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCv6U4ZX-LF6hxCjpCeJCGTA/videos?view_as=subscriber)
+
+
 
 
 
@@ -13,7 +16,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Learn Python and Vue js 
-- ⚡ Fun fact: I love to Read Holy Quran
+- ⚡ Fun fact: I love to Read The Holy Quran
 
 ### Github Stats 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MD-Khalid-Hosain&show_icons=true&theme=dark)
