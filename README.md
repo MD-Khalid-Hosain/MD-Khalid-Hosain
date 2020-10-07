@@ -52,11 +52,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [06 Laravel 8 bangla tutorial part 6 laravel 8 CRUD (how to edit update and delete data in laravel 8)](https://www.youtube.com/watch?v=ze4BtSPE0sU)
 - [how to upgrade laravel 7 to 8 bangla tutorial | how to upgrade laravel 7 to laravel 8](https://www.youtube.com/watch?v=28sqDJNWSik)
 - [05 laravel 8 bangla tutorial part 5 (how to retrieve data from database and data view in blade file)](https://www.youtube.com/watch?v=Kjg32isIa0A)
 - [04 Laravel 8 bangla tutorial part 4 (how to create a model and how to insert data in the database)](https://www.youtube.com/watch?v=BdANEGEOVHM)
 - [03 Larvel 8 bangla tutorial part 3 | how to create routes in laravel 8 | how to create a controller](https://www.youtube.com/watch?v=If1u7TXrh6s)
-- [02 Laravel 8 bangla tutorial part 2 tools for laravel](https://www.youtube.com/watch?v=PVn_RqLroSc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCv6U4ZX-LF6hxCjpCeJCGTA/videos?view_as=subscriber)
