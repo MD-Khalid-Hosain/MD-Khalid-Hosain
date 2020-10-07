@@ -1,8 +1,8 @@
 ### Hi there, I'm MD Khalid Hosain  👋
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-![Twitter Follow](https://img.shields.io/twitter/follow/MD_Khalid_?color=%231DA1F2&logo=twitter&style=for-the-badge)
-![Facebook Profile](https://img.shields.io/KhalidAhmedEvan?facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)
+![Twitter Follow](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MD_Khalid_)
+![Facebook Profile](https://img.shields.io/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)
 
 
 
