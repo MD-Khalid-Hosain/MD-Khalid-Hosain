@@ -58,7 +58,7 @@
 - [02 Laravel 8 bangla tutorial part 2 tools for laravel](https://www.youtube.com/watch?v=PVn_RqLroSc)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://www.youtube.com/channel/UCv6U4ZX-LF6hxCjpCeJCGTA?view_as=subscriber)
+➡️ [more videos...](https://www.youtube.com/channel/UCv6U4ZX-LF6hxCjpCeJCGTA/videos?view_as=subscriber)
 
 ---
 
