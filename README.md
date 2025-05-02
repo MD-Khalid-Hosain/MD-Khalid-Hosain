@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Learn Python and Vue js 
+- 🥅 2025 Goals: Learn react and node 
 - ⚡ Fun fact: I love to Read The Holy Quran
 
 ### Github Stats 
