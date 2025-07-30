@@ -38,7 +38,7 @@
 <img align="left" alt="Vue.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 <img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Next.js" width="40px" src="https://raw.githubusercontent.com/github/explore/4c8f9811d21000929e0f3da30a204e9d902bf77f/topics/nextjs/nextjs.png" />
-<img align="left" alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/github/explore/5d8c7f7f36d6c5b00d86e2764e118c601d92ebbc/topics/typescript/typescript.png" />
+<img align="left" alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
