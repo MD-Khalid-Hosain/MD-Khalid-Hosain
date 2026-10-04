@@ -1,71 +1,338 @@
-### Hi there, I'm MD Khalid Hosain  👋
+# 👋 Hi there, I'm MD Khalid Hosain
+
+
+<p align="center">
 
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/KhalidAhmedEvan/)
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-khalid-hosain/)
+
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MD_Khalid_)
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-khalid-hosain-150a75168/)
-[![Stackoverflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/11679941/md-khalid-hosain?tab=profile)
-[![Yotube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCv6U4ZX-LF6hxCjpCeJCGTA/videos?view_as=subscriber)
+
+[![Stack Overflow](https://img.shields.io/badge/Stackoverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/11679941/md-khalid-hosain)
+
+[![Youtube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCv6U4ZX-LF6hxCjpCeJCGTA)
+
+</p>
 
 
 
-## I'm a Full-Stack Web Developer with 4+ Years of Experience!
-
-💻 Specializing in Laravel, Vue.js, React, and TypeScript
-
-🧠 Currently learning advanced software development techniques and system architecture
-
-🤝 Open to collaboration on impactful tech projects
-
-🚀 2025 Goals: Deepen knowledge in Node.js, Next.js, and DevOps
-
-☪️ Fun fact: I find peace and inspiration in reading The Holy Quran
-
-### Github Stats 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MD-Khalid-Hosain&show_icons=true&theme=dark)
-
----
-<br />
+## 🚀 Software Engineer | Full Stack Developer
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MD-Khalid-Hosain)](https://github.com/ryo-ma/github-profile-trophy)
+💻 Currently working as **Software Engineer at ATB Lab**
+
+🚀 Working on **ATB Jobs**, a popular job marketplace platform in Bangladesh
+
+⚙️ Backend Specialist: **Laravel, PHP, REST API**
+
+🎨 Frontend Development: **Next.js, React, TypeScript**
+
+🗄️ Database: **MySQL**
+
+🌱 Interested in scalable architecture, clean code, and modern web development
+
+🤝 Open to collaboration on impactful software projects
 
 
-### Languages and Tools:
-
-<img align="left" alt="Laravel" width="40px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" />
-<img align="left" alt="Vue.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Next.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-<img align="left" alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="PHP" width="40px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
-<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="jQuery" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />
-<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-<br clear="left" />
 
 ---
 
-### 📺 Latest YouTube Videos
+# 💼 Professional Experience
+
+
+## 👨‍💻 Software Engineer
+
+# ATB Lab
+
+📅 September 21, 2026 - Present
+
+
+Currently working as a Full Stack Software Engineer on **ATB Jobs**, a job marketplace platform in Bangladesh.
+
+
+### Responsibilities:
+
+- Developing backend applications using Laravel
+- Building and maintaining RESTful APIs
+- Designing database structures and optimizing queries
+- Developing frontend applications using Next.js
+- Creating reusable React components
+- Integrating frontend and backend systems
+- Improving application performance
+- Implementing scalable features
+
+
+
+### Technology Stack:
+
+**Backend**
+
+Laravel  
+PHP  
+MySQL  
+REST API  
+
+
+**Frontend**
+
+Next.js  
+React.js  
+TypeScript  
+Tailwind CSS  
+
+
+**Tools**
+
+Git  
+GitHub  
+Jira  
+Docker
+
+
+
+---
+
+# 👨‍💻 Software Engineer
+
+## Ready How
+
+📅 February 2026 - September 1, 2026
+
+
+Worked on marketplace and eCommerce platform development.
+
+
+### Responsibilities:
+
+- Developed responsive marketplace features
+- Built user-friendly application functionalities
+- Improved application performance
+- Worked with modern Laravel development practices
+
+
+### Technology:
+
+Laravel  
+Laravel Livewire  
+Tailwind CSS
+
+
+
+---
+
+
+# 👨‍💻 Software Engineer
+
+## Silicon Orchard Ltd.
+
+📅 November 2021 - February 2026
+
+
+Worked on multiple web and mobile applications.
+
+
+## 🎥 VideoXRM
+
+AI-driven business media platform.
+
+
+**Role:** Backend Developer
+
+
+Responsibilities:
+
+- Developed REST APIs
+- Built backend functionality
+- Integrated frontend features
+- Improved application performance
+
+
+Technology:
+
+Laravel  
+MySQL  
+Vue.js
+
+
+
+---
+
+
+## 🇯🇵 Journey To Nippon
+
+
+**Role:** Full Stack Developer
+
+
+Responsibilities:
+
+- Developed frontend interfaces
+- Integrated backend APIs
+- Improved user experience
+
+
+Technology:
+
+Next.js  
+TypeScript  
+Tailwind CSS  
+Node.js
+
+
+
+---
+
+
+## 💬 X Messaging App
+
+
+Real-time communication application.
+
+
+Responsibilities:
+
+- Developed React Native application features
+- Integrated WebRTC communication
+- Implemented real-time audio and video functionality
+
+
+Technology:
+
+React Native  
+WebRTC  
+TypeScript  
+Supabase
+
+
+
+---
+
+
+# 🛒 Original Store
+
+📅 October 2020 - October 2021
+
+
+Built and launched a complete eCommerce platform.
+
+
+Technology:
+
+Laravel  
+MySQL  
+Bootstrap  
+jQuery
+
+
+
+---
+
+
+# 🛠️ Languages and Tools
+
+
+<p align="left">
+
+
+<img align="left" width="45px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" />
+
+
+<img align="left" width="45px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
+
+
+<img align="left" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+
+
+<img align="left" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+
+
+<img align="left" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+
+
+<img align="left" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+
+
+<img align="left" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+
+
+<img align="left" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+
+
+</p>
+
+
+<br clear="left"/>
+
+
+---
+
+
+# 📊 GitHub Stats
+
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MD-Khalid-Hosain&show_icons=true&theme=dark"/>
+
+</p>
+
+
+---
+
+
+# 🏆 GitHub Trophy
+
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=MD-Khalid-Hosain&theme=dark"/>
+
+</p>
+
+
+---
+
+
+# 📺 Latest YouTube Videos
+
 
 <!-- YOUTUBE:START -->
-- [06 Laravel 8 bangla tutorial part 6 laravel 8 CRUD (how to edit update and delete data in laravel 8)](https://www.youtube.com/watch?v=ze4BtSPE0sU)
-- [how to upgrade laravel 7 to 8 bangla tutorial | how to upgrade laravel 7 to laravel 8](https://www.youtube.com/watch?v=28sqDJNWSik)
-- [05 laravel 8 bangla tutorial part 5 (how to retrieve data from database and data view in blade file)](https://www.youtube.com/watch?v=Kjg32isIa0A)
-- [04 Laravel 8 bangla tutorial part 4 (how to create a model and how to insert data in the database)](https://www.youtube.com/watch?v=BdANEGEOVHM)
-- [03 Larvel 8 bangla tutorial part 3 | how to create routes in laravel 8 | how to create a controller](https://www.youtube.com/watch?v=If1u7TXrh6s)
+
+- Laravel 8 Bangla Tutorial Series
+- Laravel CRUD Tutorial
+- Laravel Database Tutorial
+- Laravel Upgrade Guide
+
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://www.youtube.com/channel/UCv6U4ZX-LF6hxCjpCeJCGTA/videos?view_as=subscriber)
+
+➡️ More videos:
+
+https://www.youtube.com/channel/UCv6U4ZX-LF6hxCjpCeJCGTA
 
 
-[facebook]: https://www.facebook.com/KhalidAhmedEvan/
-[twitter]: https://twitter.com/MD_Khalid_
-[youtube]: https://www.youtube.com/channel/UCv6U4ZX-LF6hxCjpCeJCGTA/videos?view_as=subscriber
-[linkedin]: linkedin.com/in/md-khalid-hosain-150a75168
-[webdevplaylist]: https://www.youtube.com/channel/UCv6U4ZX-LF6hxCjpCeJCGTA/videos?view_as=subscriber
+
+---
+
+
+# 📫 Connect With Me
+
+
+📧 Email:
+
+khalidhossain009@gmail.com
+
+
+🔗 LinkedIn:
+
+https://www.linkedin.com/in/md-khalid-hosain/
+
+
+🔗 GitHub:
+
+https://github.com/MD-Khalid-Hosain
+
+
+
+⭐ Thanks for visiting my profile!
