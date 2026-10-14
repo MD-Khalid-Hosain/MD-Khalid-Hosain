@@ -127,92 +127,139 @@ Object-Oriented Programming (OOP) | WebRTC | Supabase | API Integration | System
 # 💼 Professional Experience
 
 
-## 🚀 Software Engineer | ATB Lab
+<table>
 
-**Present**
+<tr>
 
-Working as a Full Stack Developer on **ATB Jobs**, a job marketplace platform.
+<td width="50%" valign="top">
 
-Responsibilities:
+<h3>🚀 Software Engineer</h3>
 
-- Developing backend systems using Laravel
-- Building RESTful APIs
-- Designing database structures
-- Developing frontend applications using Next.js
-- Creating reusable React components
-- Improving application scalability
+<h4>ATB Lab</h4>
 
+📅 September 2026 - Present
 
-Technology:
+Working as a Full Stack Developer on <b>ATB Jobs</b>, a job marketplace platform.
 
-`Laravel` `PHP` `MySQL` `Next.js` `React` `TypeScript`
+<b>Responsibilities:</b>
 
-
----
-
-
-## Software Engineer | Ready How
-
-**Feb 2026 - Aug 2026**
-
-Developed and optimized responsive eCommerce applications.
-
-Technology:
-
-`Laravel` `Laravel Livewire` `Tailwind CSS`
+• Developing backend systems using Laravel  
+• Building RESTful APIs  
+• Designing database structures  
+• Developing Next.js applications  
+• Creating reusable React components  
+• Improving application scalability  
 
 
----
+<b>Technology:</b>
+
+Laravel • PHP • MySQL  
+Next.js • React • TypeScript  
+Tailwind CSS
 
 
-## Software Engineer | Silicon Orchard Ltd.
+</td>
 
-**Nov 2021 - Feb 2026**
 
-### 🎥 VideoXRM
+<td width="50%" valign="top">
+
+
+<h3>⚡ Software Engineer</h3>
+
+<h4>Ready How</h4>
+
+📅 February 2026 - August 2026
+
+Worked on eCommerce and marketplace application development.
+
+
+<b>Responsibilities:</b>
+
+• Developed responsive web applications  
+• Optimized application performance  
+• Built reusable components  
+
+
+<b>Technology:</b>
+
+Laravel • Laravel Livewire  
+Tailwind CSS
+
+
+</td>
+
+
+</tr>
+
+
+<tr>
+
+
+<td width="50%" valign="top">
+
+
+<h3>🏢 Software Engineer</h3>
+
+<h4>Silicon Orchard Ltd.</h4>
+
+📅 November 2021 - February 2026
+
+
+<b>Projects:</b>
+
+
+🎥 <b>VideoXRM</b>
 
 AI-driven business media platform.
 
-Responsibilities:
+Technology:
 
-- Developed backend APIs
-- Integrated application features
-- Improved user experience
+Laravel • MySQL • Vue.js
+
+
+🇯🇵 <b>Journey To Nippon</b>
 
 Technology:
 
-`Laravel` `MySQL` `Vue.js`
+Next.js • TypeScript  
+Node.js • Tailwind CSS
 
 
-### 🇯🇵 Journey To Nippon
-
-Technology:
-
-`Node.js` `Next.js` `TypeScript` `Tailwind CSS`
+</td>
 
 
-### 💬 X Messaging App
-
-Real-time communication application.
-
-Technology:
-
-`React Native` `WebRTC` `TypeScript` `Supabase`
+<td width="50%" valign="top">
 
 
----
+<h3>💬 Software Engineer</h3>
+
+<h4>Original Store Ltd.</h4>
+
+📅 October 2020 - October 2021
 
 
-## Software Engineer | Original Store
+Built and launched a complete eCommerce platform.
 
-**Oct 2020 - Oct 2021**
 
-Built a complete eCommerce platform with payment and order management systems.
+<b>Responsibilities:</b>
 
-Technology:
+• Frontend and backend development  
+• Payment integration  
+• Order management system  
 
-`Laravel` `MySQL` `Bootstrap` `jQuery`
 
+<b>Technology:</b>
+
+Laravel • MySQL  
+Bootstrap • jQuery
+
+
+</td>
+
+
+</tr>
+
+</table>
 
 ---
 
