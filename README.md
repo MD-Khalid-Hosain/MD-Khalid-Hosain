@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D7A6B,100:1A2E4A&height=200&section=header&text=MD%20Khalid%20Hosain&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20Backend%20Engineer&descColor=A8C8D8&descAlignY=58&animation=fadeIn" width="100%"/>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full-Stack+Software+Engineer+%7C+Laravel+%7C+PHP+%7C+Node.js+%7C+Express.js;Next.js+%7C+TypeScript+%7C+Docker+%7C+DevOps+%7C+AWS+%7C+CI%2FCD+%7C+Scalable+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4640A9&center=true&width=600&lines=Full-Stack+Software+Engineer+%7C+Laravel+%7C+PHP;Node.js+%7C+Express.js+%7C+Next.js+%7C+TypeScript;Docker+%7C+DevOps+%7C+AWS+%7C+CI%2FCD+)](https://git.io/typing-svg)
 
 
 <br/>
