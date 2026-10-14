@@ -1,31 +1,35 @@
-### Hi there, I'm MD Khalid Hosain 👋
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D7A6B,100:1A2E4A&height=200&section=header&text=MD%20Khalid%20Hosain&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descColor=A8C8D8&descAlignY=58&animation=fadeIn" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0D7A6B&center=true&vCenter=true&width=800&lines=Building+scalable+web+applications;Laravel+%7C+Next.js+%7C+React+%7C+TypeScript;Backend+systems+%7C+REST+APIs+%7C+Cloud;Always+learning+and+improving+🚀" />
+</a>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-khalid-hosain/)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MD-Khalid-Hosain)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khalidhossain009@gmail.com)
+
+</div>
 
 
-[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/KhalidAhmedEvan/)
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MD_Khalid_)
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-khalid-hosain/)
-[![Stackoverflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/11679941/md-khalid-hosain)
-[![Youtube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCv6U4ZX-LF6hxCjpCeJCGTA/videos?view_as=subscriber)
+---
 
+## 💫 About Me
 
+👨‍💻 **Software Engineer at ATB Lab**
 
-## I'm a Software Engineer & Full-Stack Developer!
+🚀 Building and maintaining **ATB Jobs**, a job marketplace platform in Bangladesh.
 
+💻 Experienced in developing scalable backend systems, REST APIs, and modern frontend applications.
 
-💻 Currently working as **Software Engineer at ATB Lab**
-
-🚀 Working on **ATB Jobs**, a popular job marketplace platform in Bangladesh
-
-⚙️ Backend Development: **Laravel, PHP, REST API**
-
-🎨 Frontend Development: **Next.js, React, TypeScript**
-
-🗄️ Database: **MySQL**
-
-🧠 Passionate about scalable applications, clean architecture, and solving real-world problems
-
-🤝 Open to collaboration on impactful software projects
-
+🌱 Currently focused on:
+- Full-stack application architecture
+- Performance optimization
+- Clean code and scalable solutions
+- Cloud and DevOps practices
 
 
 ---
@@ -35,27 +39,24 @@
 
 ### 🚀 Software Engineer | ATB Lab
 
-📅 September 21, 2026 - Present
+**September 2026 - Present**
 
-
-Working as a Full Stack Developer on **ATB Jobs**, a job marketplace platform in Bangladesh.
-
+Working as a Full Stack Developer on **ATB Jobs**, a job marketplace platform.
 
 Responsibilities:
 
-- Developing backend systems using Laravel
-- Building and maintaining RESTful APIs
+- Developing backend services using **Laravel & PHP**
+- Building and maintaining **RESTful APIs**
 - Designing database structures and optimizing queries
-- Developing frontend applications using Next.js
-- Creating reusable React components
-- Integrating frontend with backend services
-- Improving application performance and scalability
+- Developing frontend applications using **Next.js and React**
+- Creating reusable components with **TypeScript**
+- Integrating frontend and backend systems
+- Improving application scalability and performance
 
 
 Technology:
 
-Laravel • PHP • MySQL • Next.js • React • TypeScript • Tailwind CSS
-
+`Laravel` `PHP` `MySQL` `Next.js` `React` `TypeScript` `Tailwind CSS`
 
 
 ---
@@ -63,16 +64,13 @@ Laravel • PHP • MySQL • Next.js • React • TypeScript • Tailwind CSS
 
 ### Software Engineer | Ready How
 
-📅 February 2026 - September 1, 2026
+**February 2026 - September 2026**
 
-
-Worked on marketplace and eCommerce platform development.
-
+Worked on eCommerce and marketplace application development.
 
 Technology:
 
-Laravel • Laravel Livewire • Tailwind CSS
-
+`Laravel` `Laravel Livewire` `Tailwind CSS`
 
 
 ---
@@ -80,41 +78,42 @@ Laravel • Laravel Livewire • Tailwind CSS
 
 ### Software Engineer | Silicon Orchard Ltd.
 
-📅 November 2021 - February 2026
+**November 2021 - February 2026**
+
+Worked on multiple web and mobile applications.
 
 
-Worked on different web and mobile applications.
+### 🎥 VideoXRM
 
+AI-driven business media platform.
 
-Projects:
+Responsibilities:
 
-
-🎥 **VideoXRM**
-
-AI-driven business media platform
-
-Technology:
-
-Laravel • MySQL • Vue.js
-
-
-
-🇯🇵 **Journey To Nippon**
+- Developed backend APIs
+- Integrated application features
+- Improved application performance
 
 Technology:
 
-Next.js • TypeScript • Tailwind CSS • Node.js
+`Laravel` `MySQL` `Vue.js`
 
 
+### 🇯🇵 Journey To Nippon
 
-💬 **X Messaging App**
-
-Real-time communication application
+A platform focused on Japan-related services.
 
 Technology:
 
-React Native • WebRTC • TypeScript • Supabase
+`Next.js` `TypeScript` `Node.js` `Tailwind CSS`
 
+
+### 💬 X Messaging App
+
+Real-time communication application.
+
+Technology:
+
+`React Native` `WebRTC` `TypeScript` `Supabase`
 
 
 ---
@@ -122,108 +121,103 @@ React Native • WebRTC • TypeScript • Supabase
 
 ### Software Engineer | Original Store
 
-📅 October 2020 - October 2021
-
+**October 2020 - October 2021**
 
 Built and launched a complete eCommerce platform.
 
-
 Technology:
 
-Laravel • MySQL • Bootstrap • jQuery
+`Laravel` `MySQL` `Bootstrap` `jQuery`
 
 
 
 ---
 
+# 💻 Tech Stack
 
 
-## Github Stats 
+<div align="center">
 
 
-![Khalid's GitHub stats](https://github-readme-stats.vercel.app/api?username=MD-Khalid-Hosain&show_icons=true&theme=dark)
+### Backend
+
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
 
 
+### Frontend
 
----
-
-
-<br />
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=MD-Khalid-Hosain)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
 
+### Database & Tools
 
----
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
-
-
-## Languages and Tools:
-
-
-<img align="left" alt="Laravel" width="40px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" />
-
-<img align="left" alt="PHP" width="40px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
-
-<img align="left" alt="Vue.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-
-<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-
-<img align="left" alt="Next.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-
-<img align="left" alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-
-<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-
-<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-<img align="left" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-
-<img align="left" alt="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
-<img align="left" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-
-<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-
-<br clear="left" />
+</div>
 
 
 ---
 
-
-## 📺 Latest YouTube Videos
-
-
-<!-- YOUTUBE:START -->
-
-- Laravel 8 Bangla Tutorial Part 6 CRUD
-- Laravel 8 Bangla Tutorial Database Operations
-- Laravel Upgrade Guide
-- Laravel Routing and Controller Tutorial
-
-<!-- YOUTUBE:END -->
+## 📊 GitHub Stats
 
 
-➡️ [More videos...](https://www.youtube.com/channel/UCv6U4ZX-LF6hxCjpCeJCGTA/videos?view_as=subscriber)
+<div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=MD-Khalid-Hosain&show_icons=true&theme=dark" />
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MD-Khalid-Hosain&theme=dark" />
 
-
-## 📫 Connect With Me
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-MD%20Khalid%20Hosain-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/md-khalid-hosain/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-MD%20Khalid%20Hosain-black?style=for-the-badge&logo=github)](https://github.com/MD-Khalid-Hosain)
-
-
-📧 Email:
-khalidhossain009@gmail.com
-
+</div>
 
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 🏆 Achievements & Certifications
+
+🏅 Web Development Certification — Creative IT
+
+📜 Professional Backoffice Services — BACCO
+
+📜 Verbal Communication in English — WSDA
+
+
+---
+
+## 📚 Education
+
+🎓 Bachelor of Computer Science and Engineering
+
+**IUBAT — International University of Business Agriculture and Technology**
+
+
+---
+
+## 📬 Let's Connect
+
+
+<div align="center">
+
+Open to collaborating on **Full Stack Development, Backend Engineering, and scalable web applications.**
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-khalid-hosain/)
+
+[![GitHub](https://img.shields.io/badge/View_GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MD-Khalid-Hosain)
+
+📧 khalidhossain009@gmail.com
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A2E4A,100:0D7A6B&height=100&section=footer" width="100%"/>
+
+</div>
